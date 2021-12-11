@@ -1,0 +1,13 @@
+/*
+Name: Aditya Dharmesh Patel
+Student ID : 143595205
+email : adpatel31@myseneca.ca
+Section : NBB
+Date : 02 - oct - 2021
+*/
+
+In this Workshop, I learnt various applictions of 'class' object in c++. For Example, how to create a class, privatize it and 
+how to call privatized class and store given file's data in it.
+I used the codes of w3p1 project as a reference to create these modules as I found similarities between two projects
+I also learnt that when allocating an object it is important to delocate it as it can potentially cause memory leaks. 
+I learnt it the hard way by getting memory leak errors in matrix
